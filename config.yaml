@@ -122,6 +122,10 @@ menu:
       name: 🔎 Search
       url: /search/
       weight: 30
+    - identifier: archive
+      name: 📅 Archive
+      url: /archives/
+      weight: 30
     # - identifier: tags
     #   name: tags
     #   url: /tags/
