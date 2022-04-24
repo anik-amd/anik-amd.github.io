@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://anik-amd.github.io/sitemap.xml

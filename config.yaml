@@ -150,3 +150,6 @@ outputs:
 
 # Comments
 # disqusShortname: anik_amd
+
+# For github pages
+publishDir: docs
