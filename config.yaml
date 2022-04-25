@@ -26,6 +26,8 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  comments: true
+
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -149,7 +151,7 @@ outputs:
     - JSON # is necessary
 
 # Comments
-# disqusShortname: anik_amd
+disqusShortname: anik-ahmed
 
 # For github pages
 publishDir: docs
