@@ -1,5 +1,5 @@
 ---
-title: "📧 Contact Me"
+title: "Contact Me"
 date: 2022-05-08T16:42:18+06:00
 # weight: 1
 # aliases: ["/first"]

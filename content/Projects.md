@@ -1,5 +1,5 @@
 ---
-title: "🌟 Projects"
+title: "Projects"
 date: 2022-05-08T15:50:15+06:00
 # weight: 1
 # aliases: ["/first"]
