@@ -16,14 +16,5 @@
 Say hi at anikahmed0091@gmail.com.</description>
     </item>
     
-    <item>
-      <title>Test Post</title>
-      <link>https://anik-amd.github.io/posts/test-post/</link>
-      <pubDate>Mon, 25 Apr 2022 17:35:18 +0600</pubDate>
-      
-      <guid>https://anik-amd.github.io/posts/test-post/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
   </channel>
 </rss>
