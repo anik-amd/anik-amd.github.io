@@ -57,18 +57,19 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: Anik Ahmed
-    subtitle: "Designer & Programmer"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    enabled: true # needs to be explicitly set
+    title: Hello World! 👋
+    subtitle: |
+      I'm a 👾 frontend developer and ✨ graphics designer from Dhaka, Bangladesh.
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: image
+    # buttons:
+    #   - name: Projects
+    #     url: projects
+    #   - name: Tags
+    #     url: tags
 
   # home-info mode
   homeInfoParams:
@@ -78,13 +79,15 @@ params:
 
       Here I share my experience and ideas about web development and everything else!
 
-  # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/anik_amd"
-  #   # - name: stackoverflow
-  #   #   url: "https://stackoverflow.com"
-  #   - name: github
-  #     url: "https://github.com/anik-amd"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/anik_amd"
+    - name: github
+      url: "https://github.com/anik-amd"
+    - name: goodreads
+      url: "https://www.goodreads.com/anik_amd"
+    - name: lastfm
+      url: "https://www.last.fm/user/anik91"
 
   # analytics:
   #   google:
@@ -116,22 +119,26 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: 📃 Categories
-      url: /categories/
-      weight: 40
+    # - identifier: categories
+    #   name: 📃 Categories
+    #   url: /categories/
+    #   weight: 40
     - identifier: search
       name: 🔎 Search
       url: /search/
       weight: 30
-    - identifier: archive
-      name: 📅 Archive
-      url: /archives/
-      weight: 30
+    # - identifier: archive
+    #   name: 📅 Archive
+    #   url: /archives/
+    #   weight: 30
     # - identifier: tags
     #   name: tags
     #   url: /tags/
     #   weight: 30
+    - identifier: Projects
+      name: ⭐ Projects
+      url: /projects/
+      weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
