@@ -61,6 +61,10 @@ params:
     title: Hello World! 👋
     subtitle: |
       I'm a 👾 frontend developer and ✨ graphics designer from Dhaka, Bangladesh.
+
+      My recent obsession is [**NextJS**](https://nextjs.org/), [**Tailwind**](https://tailwindcss.com/) & Game of Thrones.
+      
+      I'm comfortable working with NodeJS projects & NoSQL databases.
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
@@ -123,10 +127,6 @@ menu:
     #   name: 📃 Categories
     #   url: /categories/
     #   weight: 40
-    - identifier: search
-      name: 🔎 Search
-      url: /search/
-      weight: 30
     # - identifier: archive
     #   name: 📅 Archive
     #   url: /archives/
@@ -136,9 +136,17 @@ menu:
     #   url: /tags/
     #   weight: 30
     - identifier: Projects
-      name: ⭐ Projects
+      name: 🌟 Projects
       url: /projects/
       weight: 20
+    - identifier: search
+      name: 🔎 Search
+      url: /search/
+      weight: 30
+    - identifier: Contact Me
+      name: 📧 Contact Me 
+      url: /contact-me/
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

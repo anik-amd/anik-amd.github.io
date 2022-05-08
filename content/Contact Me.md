@@ -1,18 +1,18 @@
 ---
-title: "🌟 Projects"
-date: 2022-05-08T15:50:15+06:00
+title: "📧 Contact Me"
+date: 2022-05-08T16:42:18+06:00
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
-# categories: ["test"]
+categories: ["test"]
 author: "Anik Ahmed"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "All the stuff I've been working on."
+# description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
@@ -33,19 +33,6 @@ ShowPostNavLinks: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-# Easy Notes
+I always welcome new ideas and perceptions. I'm available to work with you on any frontend related as well as fullstack projects.
 
-**Privacy focused browser based notepad.**
-
-### Techstack
-
-- ⭐ NextJS.
-- 🎨 Tailwind.
-- 💪 Redux.
-
-[View](https://easy-notes.vercel.app) || [Github](https://github.com/anik-amd/easy-notes)
-
-### Links
-
-- ⚡ Live: [easy-notes.vercel.app](https://easy-notes.vercel.app)
-- 📄 Source Code: [Github/anik-amd/easy-notes](https://github.com/anik-amd/easy-notes)
+Say hi at `anikahmed0091@gmail.com`.
