@@ -43,8 +43,6 @@ ShowPostNavLinks: true
 - 🎨 Tailwind.
 - 💪 Redux.
 
-[View](https://easy-notes.vercel.app) || [Github](https://github.com/anik-amd/easy-notes)
-
 ### Links
 
 - ⚡ Live: [easy-notes.vercel.app](https://easy-notes.vercel.app)
